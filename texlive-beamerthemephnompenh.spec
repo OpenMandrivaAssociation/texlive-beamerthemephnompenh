@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-beamerthemephnompenh
 Version:	20131013
-Release:	7
+Release:	8
 Summary:	TeXLive beamerthemephnompenh package
 Group:		Publishing
 URL:		http://tug.org/texlive
